@@ -1,0 +1,1423 @@
+@media (max-width: 1440px) {
+  .tema .img-right2 {
+    position: absolute;
+    right: 361px;
+  }
+  .bron .foto {
+    position: relative;
+    left: 225px;
+  }
+  .bron .proz {
+    position: absolute;
+    right: 81px;
+  }
+  .email {
+    position: relative;
+    right: -155px;
+  }
+  .footer {
+    padding: 50px 38px 30px 116px;
+  }
+  .klient {
+    margin-left: 78px;
+  }
+  .meat img {
+    width: 350px;
+    height: 360px;
+  }
+  .mead-strel img {
+    width: 150px;
+    height: 15px;
+  }
+  .meat-swai img {
+    width: 250px;
+    height: 250px;
+  }
+  .meat-krug img {
+    width: 60px;
+    height: 60px;
+  }
+  .mead-right {
+    margin-left: 106px;
+  }
+  .dinner {
+    width: 134px;
+    height: 125px;
+  }
+  .footer-text a {
+    margin-right: 27px;
+  }
+  #header-hero {
+    width: 1200px;
+    height: 100px;
+  }
+}
+@media (max-width: 1200px) {
+  .tema .img-right2 {
+    position: absolute;
+    right: 123px;
+  }
+  .inform-text {
+    padding-left: 131px;
+  }
+  .bron .foto {
+    width: 974px;
+  }
+  .bron .proz {
+    position: absolute;
+    right: 51px;
+    width: 1000px;
+    height: 635px;
+  }
+  .email {
+    width: 300px;
+    height: 471px;
+  }
+  .bron {
+    width: 1198px;
+    height: 635px;
+  }
+}
+@media (max-width: 1024px) {
+  .bron .foto {
+    position: relative;
+    left: 134px;
+  }
+  .bron .foto {
+    width: 888px;
+  }
+  .bron {
+    width: 1018px;
+    height: 635px;
+  }
+  .header-hero {
+    margin-left: 110px;
+  }
+  #header-hero {
+    width: 1023px;
+    height: 100px;
+  }
+  .tema {
+    gap: 33px;
+  }
+  .section-swaip {
+    margin-left: 147px;
+  }
+  .img-right4 {
+    position: absolute;
+    left: 720px;
+    bottom: -795px;
+  }
+  .section-inform {
+    margin-left: 132px;
+  }
+  .klient {
+    margin-left: 42px;
+  }
+  .klient-otzyv {
+    padding: 65px 26px 45px 17px;
+    width: 471px;
+    height: 559px;
+  }
+  .meat {
+    margin-left: 67px;
+  }
+
+  .meat-krug img {
+    width: 41px;
+    height: 41px;
+  }
+  .meat-swai img {
+    width: 224px;
+    height: 222px;
+  }
+  .footer {
+    padding: 50px 38px 30px 85px;
+  }
+  .footer-text a {
+    margin-right: 22px;
+  }
+  .footer-text a {
+    font-size: 14px;
+  }
+  .footer-text2 p {
+    font-size: 14px;
+  }
+  .footer-text p {
+    font-size: 14px;
+  }
+}
+@media (max-width: 992px) {
+  .bron .foto {
+    width: 859px;
+  }
+  .bron {
+    width: 975px;
+  }
+  .bron {
+    width: 993px;
+    height: 635px;
+  }
+  .inform-text {
+    padding-left: 59px;
+  }
+  .section-inform {
+    margin-left: 84px;
+  }
+  .section-main {
+    margin-left: 122px;
+  }
+  .section-swaip {
+    margin-left: 106px;
+  }
+  .tema h1 {
+    font-size: 32px;
+  }
+  .tema .img-right2 {
+    position: absolute;
+    right: 161px;
+  }
+  .img-right4 {
+    position: absolute;
+    left: 667px;
+    bottom: -788px;
+  }
+  .email {
+    position: relative;
+    right: -73px;
+  }
+  .klient-text h1 {
+    font-size: 30px;
+  }
+  .klient-text h1 span {
+    font-size: 30px;
+  }
+  .meat {
+    flex-direction: column;
+    text-align: center;
+    margin-top: 73px;
+  }
+  .meat img {
+    margin-bottom: 20px;
+    width: 317px;
+    height: 318px;
+  }
+  .meat-krug img {
+    width: 41px;
+    height: 41px;
+  }
+  .meat-swai img {
+    width: 234px;
+    height: 232px;
+  }
+  .mead-strel img {
+    width: 150px;
+    height: 15px;
+  }
+}
+@media (max-width: 768px) {
+  .bron .foto {
+    width: 630px;
+    height: 443px;
+  }
+  .bron .proz {
+    position: absolute;
+    bottom: -3104px;
+    right: 15px;
+    height: 443px;
+    width: 760px;
+  }
+  .email h1 {
+    font-size: 22px;
+  }
+  .email input {
+    padding-left: 15px;
+    width: 288px;
+    height: 38px;
+  }
+  .restor select {
+    width: 119px;
+  }
+  .email .title1 {
+    width: 285px;
+  }
+  .btn {
+    margin: 19px 0 0 36px;
+    font-size: 22px;
+    width: 207px;
+    height: 47px;
+  }
+  .email p {
+    margin-top: 16px;
+  }
+  .email {
+    position: relative;
+    top: -447px;
+  }
+  .bron {
+    margin: 30px 0 30px 0;
+    width: 755px;
+    height: 486px;
+  }
+  .header-hero {
+    margin-left: 60px;
+    gap: 57px;
+  }
+  .tema h1 {
+    font-size: 28px;
+  }
+  .section-swaip {
+    margin-left: 57px;
+  }
+  .kard1 element.style {
+    width: 256px;
+    margin-right: 30px;
+  }
+  element.style {
+    width: 281px;
+    margin-right: 30px;
+  }
+  .kard1 .pizza {
+    width: 172px;
+    height: 172px;
+  }
+  .pric {
+    width: 230px;
+    height: 294px;
+  }
+  .tema .img-right2 {
+    position: absolute;
+    right: 20px;
+  }
+  .img-right4 {
+    position: absolute;
+    left: 598px;
+    bottom: -767px;
+  }
+  .section-inform {
+    flex-direction: column;
+    text-align: center;
+  }
+  .cook-img {
+    width: 501px;
+    height: 971px;
+  }
+  .inform-text {
+    padding-left: 27px;
+    padding-bottom: 50px;
+  }
+  .klient-text button {
+    margin-bottom: 110px;
+  }
+  .klient {
+    flex-direction: column;
+  }
+  .klient {
+    padding-top: 27px;
+  }
+  .meat {
+    margin-left: 0;
+    margin-top: 0;
+    padding-left: 0;
+    padding-top: 20px;
+  }
+  .mead-strel img {
+    margin-right: 87px;
+  }
+  .footer {
+    flex-direction: column;
+  }
+  .footer-text p {
+    margin: 19px 0 0 60px;
+  }
+  .dinner {
+    width: 100px;
+    height: 93px;
+  }
+}
+@media (max-width: 576px) {
+  .header-hero {
+    margin-left: 43px;
+    gap: 18px;
+  }
+  .section-main h1 {
+    font-size: 30px;
+  }
+  .section-main h1 span {
+    font-size: 30px;
+  }
+  .section-main {
+    margin-left: 67px;
+  }
+  .tema h1 {
+    font-size: 24px;
+  }
+  .tema img,
+  .img-right1,
+  .img-right3 {
+    width: 135px;
+  }
+  .tema .img-right2,
+  .tema .img-right4 {
+    width: 47px;
+    height: 47px;
+  }
+  .tema {
+    gap: 16px;
+  }
+  .img-right4 {
+    position: absolute;
+    left: 428px;
+    bottom: -642px;
+  }
+
+  .kard1 .pizza {
+    width: 117px;
+    height: 117px;
+  }
+  .pric {
+    text-align: center;
+    width: 164px;
+    height: 230px;
+  }
+  .pric h2 {
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .pric h5 {
+    padding: 10px 0 13px 0;
+    font-size: 9px;
+    font-weight: 400;
+  }
+  .inputs {
+    gap: 6px;
+  }
+  .inputs p {
+    font-size: 8px;
+  }
+  .number {
+    gap: 9px;
+    margin-top: 11px;
+  }
+  .pricing h6 {
+    font-size: 10px;
+    font-weight: 400;
+  }
+  .pricing p {
+    padding-top: 3px;
+    width: 67px;
+    height: 23px;
+  }
+  .pricing-rigth2 {
+    margin: 10px 0 0 36px;
+    padding-top: 3px;
+    text-align: center;
+    width: 70px;
+    height: 22px;
+  }
+  .cook-img img {
+    width: 350px;
+    height: 350px;
+  }
+  .express img {
+    width: 50px;
+    height: 50px;
+  }
+  .menu img {
+    width: 50px;
+    height: 50px;
+  }
+  .hours img {
+    width: 50px;
+    height: 50px;
+  }
+  .spagu img {
+    width: 50px;
+    height: 50px;
+  }
+  .chef img {
+    width: 50px;
+    height: 50px;
+  }
+  .cook-img .express {
+    position: relative;
+    top: 390px;
+    right: 9px;
+  }
+  .cook-img .menu {
+    position: relative;
+    bottom: 89px;
+    right: -48px;
+  }
+  .inform-text {
+    padding-left: 1px;
+  }
+  .section-inform {
+    margin-left: 15px;
+  }
+  .cook-img {
+    height: 800px;
+  }
+  .bron .foto {
+    position: relative;
+    left: 1px;
+  }
+  .bron .foto {
+    width: 573px;
+    height: 443px;
+  }
+  .bron .proz {
+    position: absolute;
+    bottom: -2935px;
+    right: -184px;
+  }
+  .klient-otzyv {
+    width: 437px;
+    height: 504px;
+  }
+  .krug {
+    position: absolute;
+    bottom: 23px;
+    left: 46px;
+  }
+  .meat-swai img {
+    width: 196px;
+    height: 194px;
+    margin: 5px 20px 50px 0;
+  }
+  .mead-strel img {
+    margin-right: 58px;
+  }
+  #section-inform {
+    height: 2780.848px;
+  }
+  .meat-krug img {
+    width: 26px;
+    height: 26px;
+    margin-right: 17px;
+  }
+  .dinner {
+    width: 80px;
+    height: 70px;
+  }
+  .footer-text2 p {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 6px 30px 0 8px;
+  }
+  #header-hero {
+    width: 574px;
+    height: 106px;
+  }
+  .bron {
+    margin: 30px 0 30px 0;
+    width: 569px;
+    height: 466px;
+  }
+  .bron .proz {
+    position: absolute;
+    bottom: -2935px;
+    right: 10px;
+    width: 565px;
+  }
+  .btn {
+    margin: 20px 0 0 51px;
+    font-size: 19px;
+    width: 156px;
+    height: 40px;
+  }
+  .email h1 {
+    font-size: 16px;
+  }
+  .email p {
+    margin-top: 16px;
+  }
+  .email .title1 {
+    height: 66px;
+  }
+  .email {
+    position: relative;
+    top: -419px;
+    right: -27px;
+  }
+  .otzyv-title .paragraf {
+    width: 233px;
+  }
+  .otzyv-top {
+    padding-bottom: 50px;
+  }
+  .footer-text2 {
+    margin-top: 10px;
+  }
+  .footer {
+    padding: 40px 38px 11px 58px;
+  }
+}
+@media (max-width: 451px) {
+  .header-hero img {
+    width: 70px;
+    height: 70px;
+  }
+  .header-hero a {
+    font-size: 16px;
+  }
+  .header-hero {
+    margin-left: 25px;
+    padding-top: 20px;
+  }
+  .section-main {
+    margin-left: 24px;
+  }
+  .section-main h1 {
+    font-size: 26px;
+  }
+  .section-main h1 span {
+    font-size: 26px;
+  }
+  .section-main p {
+    padding: 22px 0 53px 0;
+  }
+  .left {
+    width: 245px;
+    height: 42px;
+  }
+  .left h2 {
+    font-size: 12px;
+  }
+  .rigth h2 {
+    font-size: 12px;
+  }
+  .tema h1 {
+    font-size: 20px;
+  }
+  .tema img,
+  .img-right1,
+  .img-right3 {
+    width: 105px;
+  }
+  .tema .img-right2,
+  .tema .img-right4 {
+    width: 47px;
+    height: 47px;
+  }
+  .tema {
+    gap: 11px;
+  }
+  .section-swaip {
+    margin-left: 23px;
+  }
+  .img-right4 {
+    position: absolute;
+    left: 312px;
+    bottom: -374px;
+  }
+  .kard1 .pizza {
+    width: 90px;
+    height: 90px;
+  }
+  .pric h2 {
+    font-size: 10px;
+  }
+  .pric h5 {
+    font-size: 7px;
+  }
+  .pricing p {
+    padding-top: 5px;
+    font-size: 9px;
+    width: 52px;
+    height: 22px;
+  }
+  .pricing img {
+    position: absolute;
+    left: 21px;
+  }
+  .pricing-rigth2 {
+    padding-top: 4px;
+    font-size: 9px;
+    width: 55px;
+    height: 20px;
+  }
+  .inputs p {
+    font-size: 6px;
+  }
+  .pric {
+    width: 134px;
+    height: 220px;
+  }
+  #section-main {
+    height: 989px;
+  }
+  #section-swaip {
+    height: 1143.726px;
+  }
+  .cook-img img {
+    width: 277px;
+    height: 277px;
+  }
+  .express img {
+    width: 40px;
+    height: 40px;
+  }
+  .menu img {
+    width: 40px;
+    height: 40px;
+  }
+  .hours img {
+    width: 40px;
+    height: 40px;
+  }
+  .spagu img {
+    width: 40px;
+    height: 40px;
+  }
+  .chef img {
+    width: 40px;
+    height: 40px;
+  }
+  .cook-img div {
+    padding-top: 23px;
+    width: 89px;
+    height: 90px;
+  }
+  .cook-img .express {
+    position: relative;
+    top: 279px;
+    right: -36px;
+  }
+  .cook-img .hours {
+    position: relative;
+    top: 116px;
+    right: -179px;
+  }
+  .cook-img .spagu {
+    top: 70px;
+    right: -255px;
+}
+  .cook-img .menu {
+    position: relative;
+    bottom: 88px;
+    right: -62px;
+  }
+  .cook-img .chef {
+    position: relative;
+    right: -296px;
+    bottom: 180px;
+  }
+  .cook-img {
+    height: 685px;
+        width: 444px;
+  }
+  .bron {
+    width: 449px;
+  }
+  .bron .foto {
+    width: 451px;
+  }
+
+  .bron .proz {
+    position: absolute;
+    bottom: -2411px;
+    right: -3px;
+    width: 451px;
+}
+
+.klient {
+    margin-left: 14px;
+}
+.klient-text button {
+    font-size: 26px;
+    width: 199px;
+}
+.klient-otzyv {
+    width: 419px;
+    height: 489px;
+    padding: 47px 26px 45px 17px;
+}
+#section-inform {
+    height: 2576.848px;
+}
+.meat img {
+    margin-bottom: 20px;
+    width: 294px;
+    height: 296px;
+}
+.meat-swai img {
+    width: 142px;
+    height: 142px;
+    margin: 5px 20px 50px 0;
+}
+.mead-strel img {
+    margin-right: 0px;
+    width: 104px;
+    height: 16px;
+}
+.meat-krug img {
+    width: 17px;
+    height: 16px;
+    margin-right: 5px;
+}
+.mead-right {
+    margin-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+}
+@media (max-width: 400px) {
+    .header-hero img {
+        width: 52px;
+        height: 53px;
+    }
+    .header-hero a {
+        font-size: 12px;
+    }
+    .section-main h1 {
+        font-size: 24px;
+    }
+    .section-main h1 span {
+        font-size: 24px;
+    }
+    .section-main p {
+        padding: 19px 0 29px 0;
+    }
+    .section-main p {
+        font-size: 12px;
+
+    }
+    .section-main p span {
+        font-size: 12px;
+    }
+    .left h2 {
+        margin: 0 4px 0 13px;
+        font-size: 16px;
+    }
+    .left {
+        width: 211px;
+        height: 42px;
+    }
+    .rigth {
+        width: 110px;
+        height: 41px;
+    }
+    #section-main {
+        height: 740px;
+    }
+    .tema h1 {
+        font-size: 16px;
+    }
+    #section-swaip {
+        height: 965px;
+    }
+    .tema .img-right2 {
+        position: absolute;
+        right: 7px;
+    }
+    .img-right4 {
+        position: absolute;
+        left: 290px;
+        bottom: -469px;
+    }
+    .kard1 .pizza {
+        position: relative;
+        top: 58px;
+        right: -23px;
+    }
+    .pric {
+        padding: 50px 13px 12px 13px;
+        width: 129px;
+        height: 222px;
+    }
+    .pricing-rigth2 {
+        margin: 10px 0 0 18px;
+    }
+    .cook-img {
+        height: 630px;
+        width: 482px;
+    }
+    .bron .foto {
+        width: 400px;
+        height: 356px;
+    }
+    .bron {
+        width: 398px;
+        height: 386px;
+    }
+    .bron .proz {
+        position: absolute;
+        bottom: -2194px;
+        right: 3px;
+        width: 399px;
+        height: 360px;
+    }
+    .email h1 {
+        font-size: 14px;
+    }
+    .email p {
+        margin-top: 8px;
+        font-size:9px;
+    }
+    .email .title1 {
+        height: 61px;
+        width: 233px;
+    }
+    .restor select {
+        width: 91px;
+    }
+    .email input {
+        width: 228px;
+    }
+    .email {
+        position: relative;
+        top: -361px;
+        right: -16px;
+    }
+    .btn {
+        font-size: 14px;
+        width: 114px;
+        height: 33px;
+    }
+    .klient-text h1 {
+        font-size: 22px;
+    }
+    .klient-text h1 span {
+        font-size: 22px;
+    }
+    .klient-text p {
+        padding: 26px 0;
+        width: 333px;
+        font-size: 11px;
+    }
+    .klient-text button {
+        font-size: 20px;
+        width: 128px;
+        margin-bottom: 72px;
+        height: 44px;
+    }
+    .otzyv-title h1 {
+        font-size: 16px;
+    }
+    .otzyv-title .paragraf {
+        font-size: 8px;
+        padding-top: 5px;
+        width: 218px;
+    }
+    .nurmat {
+        top: 30px;
+        width: 53px;
+        height: 53px;
+    }
+    .pustoi p {
+        font-size: 38px;
+    }
+    .otzyv-top2 .pustoi {
+        width: 55px;
+        height: 55px;
+    }
+    .pustoi {
+        left: 41px;
+        top: 246px;
+    }
+    .krug {
+        bottom: 71px;
+    }
+
+    .klient-otzyv {
+        width: 327px;
+        height: 428px;
+        padding: 35px 26px 36px 17px;
+    }
+    .otzyv-top .srelka-top {
+        position: relative;
+        left: -40px;
+    }
+    .otzyv-top2 .srelka-top {
+        position: relative;
+        left: -40px;
+    }
+    .krug {
+        position: absolute;
+        bottom: 8px;
+        left: 5px;
+    }
+    #section-inform {
+        height: 2320.848px;
+    }
+    .cook-img {
+        width: 400px;
+    }
+    .cook-img .spagu {
+        top: 97px;
+        right: -283px;
+    }
+    .cook-img .chef {
+        right: -276px;
+        bottom: 180px;
+    }
+    .footer-text a {
+        font-size: 10px;
+    }
+    .footer-text p {
+        margin: 11px 0 0 16px;
+        font-size: 10px;
+    }
+    .dinner {
+        width: 70px;
+        height: 56px;
+    }
+    .footer-text2 p {
+        font-size: 9px;
+    }
+    .footer-text2 img {
+        width: 18px;
+        height: 19px;
+    }
+
+}
+@media (max-width: 376px) {
+    .tema h1 {
+        font-size: 14px;
+    }
+    .pric {
+        width: 120px;
+        height: 194px;
+    }
+    .pric h2 {
+        font-size: 8px;
+    }
+    .pric h5 {
+        font-size: 6px;
+    }
+    .inputs p {
+        font-size: 5px;
+    }
+    .pricing h6 {
+        font-size: 8px;
+    }
+    .pricing p {
+        font-size: 8px;
+        width: 46px;
+        height: 21px;
+    }
+    .img-right4 {
+        position: absolute;
+        left: 277px;
+        bottom: -442px;
+    }
+
+    .cook-img .hours {
+    right: -146px;
+    }
+    .cook-img .express {
+        right: -11px;
+    }
+    .cook-img .spagu {
+        right: -264px;
+    }
+    .cook-img .menu {
+        right: -31px;
+    }
+    .cook-img .chef {
+        right: -249px;
+    }
+    .inform-text h1 {
+        font-size: 18px;
+    }
+    .inform-text h2 {
+        font-size: 18px;
+    }
+
+    .bron {
+        width: 376px;
+    }
+    .bron .foto {
+        width: 374px;
+    }
+    .bron .proz {
+        position: absolute;
+        bottom: -2183px;
+        right: 2px;
+        width: 374px;
+    }
+.dinner{
+   margin:12px 0 ;
+}
+.footer {
+    padding: 65px 30px 11px 33px;
+}
+.footer-text2 p {
+    font-size: 9px;
+}
+.read h6 {
+    margin-right: 27px;
+}
+.cook-img {
+    width: 361px;
+}
+
+
+}
+@media (max-width: 320px) {
+    .header-hero a {
+        font-size: 10px;
+    }
+    .section-main h1 {
+        font-size: 16px;
+    }
+    .section-main h1 span {
+        font-size: 16px;
+    }
+    .section-main p {
+        padding: 19px 0 29px 0;
+        font-size: 10px;
+    }
+    .left h2 {
+        font-size: 8px;
+    }
+    .left img{
+        width: 31px;
+    }
+    .left {
+        width: 164px;
+        height: 32px;
+    }
+    .rigth h2 {
+        font-size: 8px;
+    }
+    .rigth {
+        width: 102px;
+        height: 32px;
+    }
+    .img-right3 {
+        width: 72px;
+    }
+    .tema .img-right2,
+     .tema .img-right4 {
+        width: 34px;
+        height: 35px;
+    }
+    .img-right4 {
+      left: 210px;
+      bottom: -354px;
+  }
+    .kard1 .pizza {
+        width: 71px;
+        height: 71px;
+    }
+    .tema {
+      padding: 76px 0 20px 0;
+  }
+  .tema .img-right2 {
+    right: 23px;
+}
+  .tema img,
+   .img-right1,
+    .img-right3 {
+    width: 65px;
+}
+    .pric {
+        width: 105px;
+        height: 178px;
+    }
+    .pric h2 {
+        font-size: 6px;
+    }
+    .pric h5 {
+        font-size: 5px;
+    }
+    .inputs {
+        gap: 2px;
+    }
+    .pricing h6 {
+        font-size: 6px;
+    }
+    .pricing p {
+        padding-top: 3px;
+        font-size: 6px;
+        width: 37px;
+        height: 14px;
+    }
+    #section-swaip {
+        height: 876px;
+    }
+    .cook-img img {
+        width: 233px;
+        height: 233px;
+    }
+    .hours img {
+        width: 34px;
+        height: 35px;
+    }
+    .express img {
+        width: 34px;
+        height: 35px;
+    }
+    .spagu img {
+        width: 34px;
+        height: 35px;
+    }
+    .menu img {
+        width: 34px;
+        height: 35px;
+    }
+    .chef img {
+        width: 34px;
+        height: 35px;
+    }
+    .cook-img div {
+        padding-top: 13px;
+        width: 62px;
+        height: 66px;
+    }
+    .cook-img .express {
+        top: 213px;
+        right: -36px;
+    }
+    .cook-img .hours {
+        top: 87px;
+    }
+    .cook-img .spagu {
+          top: 71px;
+          right: -227px;
+      }
+    
+      .cook-img .menu {
+        bottom: 78px;
+        right: -38px;
+    }
+    .cook-img .chef {
+      right: -213px;
+        bottom: 143px;
+    }
+    .cook-img {
+        height: 496px;
+      width: 315px;
+      position: relative;
+      left: -12px;
+  }
+    .inform-text p {
+        width: 255px;
+        height: 50px;
+        font-size: 10px;
+    }
+    .bron {
+        width: 318px;
+    }
+    .bron .foto {
+        width: 318px;
+    }
+    .bron .proz {
+        bottom: -1901px;
+        right: 4px;
+        width: 320px;
+    }
+    .email h1 {
+        font-size: 10px;
+    }
+    .email p {
+        font-size: 9px;
+    }
+    .email input {
+        width: 196px;
+        height: 29px;
+        font-size: 10px;
+ 
+    }
+    .restor option {
+        font-size: 9px;
+    }
+    .select-left select {
+        padding-left: -8px;
+        font-size: 10px;
+        height: 35px;
+    }
+    .email .title1 {
+        width: 201px;
+    }
+
+    .btn {
+        font-size: 10px;
+        width: 96px;
+        height: 32px;
+    }
+    .email {
+        position: relative;
+        top: -333px;
+        right: -16px;
+    }
+
+    .klient-text h1 {
+        font-size: 16px;
+    }
+    .klient-text h1 span {
+        font-size: 16px;
+    }
+    .klient-text p {
+        width: 275px;
+        font-size: 9px;
+    }
+    .klient-text button {
+        font-size: 16px;
+        width: 107px;
+        height: 36px;
+    }
+.otzyv-top .nurmat {
+    width: 50px;
+    height: 50px;
+    left: 53px;
+}
+.pustoi {
+  left: 41px;
+  top: 220px;
+}
+.otzyv-title img {
+  top: 16px;
+}
+.otzyv-title .paragraf {
+    width: 179px;
+    font-size: 8px;
+}
+.read h6 {
+    font-size: 8px;
+    margin-right: 12px;
+}
+.read p {
+    font-size: 8px;
+}
+.klient-otzyv {
+    width: 282px;
+    height: 395px;
+}
+.meat img {
+    margin-bottom: 20px;
+    width: 241px;
+    height: 272px;
+}
+.meat-swai img {
+    width: 123px;
+    height: 135px;
+    margin: 5px 20px 30px 0;
+}
+.mead-strel img {
+    margin-right: 0px;
+    width: 104px;
+    height: 16px;
+}
+.meat-krug img {
+  width: 17px;
+  height: 16px;
+  margin-right: 5px;
+}
+#section-inform {
+    height: 1981.848px;
+}
+
+.footer-text p {
+    margin: 12px 0 0 33px;
+    font-size: 11px;
+}
+#footer {
+    height: 197px;
+}
+.container1 {
+  height: 197px;
+}
+.footer {
+  padding: 18px 1px 0 1px;
+}
+.dinner {
+  margin: 3px 0;
+}
+.cook-img {
+  width: 316px;
+}
+
+
+
+
+
+}
+@media( max-width: 414px){
+  .header-hero img {
+    width: 42px;
+    height: 52px;
+}
+.tema h1 {
+  font-size: 18px;
+}
+.tema .img-right2 {
+  position: absolute;
+  right: 4px;
+}
+.img-right4 {
+  position: absolute;
+  left: 293px;
+  bottom: -720px;
+}
+.cook-img .spagu {
+  top: 91px;
+  right: -293px;
+}
+.bron .foto {
+  width: 414px;
+}
+.bron .proz {
+  position: absolute;
+  bottom: -2759px;
+  right: 7px;
+  width: 412px;
+}
+.bron {
+  width: 410px;
+}
+.klient-otzyv {
+  width: 364px;
+  height: 499px;
+  padding: 47px 9px 13px -5px;
+}
+.nurmat {
+  position: absolute;
+  left: 44px;
+  top: 38px;
+}
+.otzyv-top2 .pustoi {
+  width: 65px;
+  height: 65px;
+}
+.pustoi {
+  position: absolute;
+  left: 50px;
+  top: 256px;
+}
+.krug {
+  position: absolute;
+  bottom: 44px;
+  left: 46px;
+}
+.footer {
+  padding: 32px 5px 11px 25px;
+}
+
+.cook-img {
+  height: 685px;
+  width: 412px;
+}
+.cook-img .hours {
+  position: relative;
+  top: 116px;
+  right: -160px;
+}
+.cook-img .chef {
+  position: relative;
+  right: -278px;
+  bottom: 180px;
+}
+
+
+}

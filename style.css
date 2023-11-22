@@ -4,15 +4,12 @@
   font-family: "Montserrat";
   box-sizing: border-box;
 }
-body{
-  max-width: 100%;
+body {
+  /* max-width: 100%; */
   margin: 0 auto;
-
 }
 .container {
-
-  width: 80%;
- 
+  /* width: 80%; */
 }
 
 .header-hero a {
@@ -20,6 +17,11 @@ body{
   font-size: 18px;
   font-weight: 400;
   text-decoration: none;
+}
+.header-hero a:hover {
+  color: #f90;
+  font-size: 20px;
+  transition: 0.5s;
 }
 .header-hero {
   margin-left: 200px;
@@ -121,7 +123,7 @@ body{
   height: 100vh;
   height: 1332.726px;
 }
-.section-swaip{
+.section-swaip {
   margin-left: 200px;
 }
 .tema {
@@ -233,6 +235,11 @@ body{
   border-radius: 60px;
   background: #f90;
 }
+.pricing p:hover {
+  color: #f90;
+  background: #fff;
+  transition: 0.5s;
+}
 .pricing-rigth2 {
   margin: 10px 0 0 70px;
   padding-top: 7px;
@@ -289,9 +296,9 @@ body{
 #section-inform {
   background: url(./img/section3.png) no-repeat center/cover;
   height: 100vh;
-  height: 3175.848px;
+  height: 2500.848px;
 }
-.section-inform{
+.section-inform {
   margin-left: 200px;
 }
 .cook-img .express {
@@ -369,14 +376,14 @@ body{
   top: -13px;
 }
 .bron {
-
   width: 1309px;
   height: 635px;
 }
 .bron .foto {
-     position: relative;
-    left: 626px;
-
+  position: relative;
+  left: 626px;
+  width: 1209px;
+  height: 635px;
 }
 
 .bron .proz {
@@ -454,6 +461,12 @@ body{
   background: #f90;
   border: none;
 }
+.btn:hover {
+  color: #fff;
+  background: transparent;
+  transition: 0.5s;
+  border: 1px solid white;
+}
 .email {
   position: relative;
   top: -580px;
@@ -497,6 +510,11 @@ body{
     rgba(0, 0, 0, 0.57) 41.58%,
     rgba(255, 255, 255, 0) 68.44%
   );
+}
+.klient-text button:hover {
+  color: #fff;
+  background: #f90;
+  transition: 0.5s;
 }
 .klient {
   margin-left: 200px;
@@ -633,10 +651,12 @@ body{
   left: 46px;
 }
 .meat {
-  margin-left: 150px;
+  background: #000;
+  padding-left: 150px;
   display: flex;
   align-items: center;
-  margin-top: 100px;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
 .meat-swai img {
   width: 332px;
@@ -659,6 +679,10 @@ body{
   background: #000;
   width: 100%;
   height: 293px;
+}
+#footer:hover {
+  background: #272626;
+  transition: 0.5s;
 }
 .footer {
   padding: 50px 200px 30px 200px;
@@ -686,10 +710,9 @@ body{
   font-weight: 400;
   margin: 0 30px 0 8px;
 }
-.footer-text2 img{
+.footer-text2 img {
   width: 29px;
-height: 29px;
-
+  height: 29px;
 }
 .footer-text p {
   color: #fff;
